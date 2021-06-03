@@ -1,0 +1,100 @@
+# depslib dependency file v1.0
+1595537477 source:c:\users\user\documents\dashen govender - university file\third year - university\semester 1\comp315\complex math\complex.cpp
+	"Complex.h"
+	<iostream>
+
+1595527489 c:\users\user\documents\dashen govender - university file\third year - university\semester 1\comp315\complex math\complex.h
+	<string>
+
+1595671708 source:c:\users\user\documents\dashen govender - university file\third year - university\semester 1\comp315\complex math\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	"Complex.h"
+	"Player.h"
+	<windows.h>
+	<mmsystem.h>
+	<thread>
+	<cstdlib>
+	<ctime>
+	<chrono>
+	<unistd.h>
+	<fstream>
+	<iomanip>
+	<stdlib.h>
+	<stdio.h>
+
+1595521925 c:\users\user\documents\dashen govender - university file\third year - university\semester 1\comp315\complex math\player.h
+	<iostream>
+
+1595487779 source:c:\users\user\documents\dashen govender - university file\third year - university\semester 1\comp315\complex math\player.cpp
+	"Player.h"
+
+1595693408 source:c:\users\munis\downloads\complex math (1)\complex math\complex.cpp
+	"Complex.h"
+	<iostream>
+
+1595693408 c:\users\munis\downloads\complex math (1)\complex math\complex.h
+	<string>
+
+1595696789 source:c:\users\munis\downloads\complex math (1)\complex math\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	"Complex.h"
+	"Player.h"
+	<windows.h>
+	<mmsystem.h>
+	<thread>
+	<cstdlib>
+	<ctime>
+	<chrono>
+	<unistd.h>
+	<fstream>
+	<iomanip>
+	<stdlib.h>
+	<stdio.h>
+
+1595693408 c:\users\munis\downloads\complex math (1)\complex math\player.h
+	<iostream>
+
+1595693408 source:c:\users\munis\downloads\complex math (1)\complex math\player.cpp
+	"Player.h"
+
+1596549502 source:c:\users\munis\downloads\complex math\complex math\complex.cpp
+	"Complex.h"
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+
+1595796521 c:\users\munis\downloads\complex math\complex math\complex.h
+	<string>
+
+1595795814 source:c:\users\munis\downloads\complex math\complex math\player.cpp
+	"Player.h"
+
+1595795900 c:\users\munis\downloads\complex math\complex math\player.h
+	<iostream>
+
+1596896808 source:c:\users\munis\downloads\complex math\complex math\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	"Complex.h"
+	"Player.h"
+	<windows.h>
+	<mmsystem.h>
+	<thread>
+	<cstdlib>
+	<ctime>
+	<chrono>
+	<unistd.h>
+	<fstream>
+	<iomanip>
+	<stdlib.h>
+	<stdio.h>
+

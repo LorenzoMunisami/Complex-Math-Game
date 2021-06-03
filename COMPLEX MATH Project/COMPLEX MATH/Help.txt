@@ -1,0 +1,19 @@
+	
+     1)	You will be given a quiz with 30 complex maths questions,
+	a question may be addition, subtraction or multiplication
+     2) Type in your answer for each question and press enter 
+		eg) (3+1i)-(1-1i) = 2+2i
+     3) For every question you answer right you will receive 100 points
+     4) For every question you answer wrong you will lose 50 points
+     5) But that's not all, there's also a catch. The time taken in 
+	seconds to complete the quiz will be deducted from your final
+	score where every second counts as 1 point. ie: If it takes you
+	5 minutes to complete the quiz, you will lose 300 points.
+     6) If there are two players, each player will have a turn to answer
+	their questions. The results will show at the end.
+     7) No player can obtain a perfect score, so remember SPEED and accuracy
+	matter. Do your best and you might just make the top 10.
+
+				 GOODLUCK!
+
+---------------------------------------------------------------------------------

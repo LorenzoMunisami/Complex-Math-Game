@@ -1,0 +1,30 @@
+	
+Developers:
+
+Dashen Govender
+ - Game design
+ - Singleplayer & Multiplayer
+ - Score calcualtion
+
+Lorenzo Munisami
+ - User Interface
+ - Sound design
+ - Play Tester(Error Detection)
+ 		
+Software & Libraries used:
+ - Code::Blocks IDE
+ - Microsoft Notepad
+
+ - <windows.h>
+ - <mmsystem.h>
+ - <thread>
+ - <cstdlib>
+ - <ctime>
+ - <chrono>
+ - <unistd.h>
+ - <fstream>
+ - <iomanip>
+ - <stdlib.h>
+ - <stdio.h>
+			            @2020
+			   Property of UKZN
